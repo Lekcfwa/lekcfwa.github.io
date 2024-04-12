@@ -97,3 +97,8 @@ div#textpos_art{
 	border-radius: 30px;
 	background-color:#ffbbad;
 }
+div#polska{
+position:relative;
+top: 100px;
+left:30px;
+}
