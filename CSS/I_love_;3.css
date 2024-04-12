@@ -152,9 +152,9 @@ img#polskapos7{
 	
 }
 div#SHINADA{
-	position:relative;
-	top:0px;
-	right:1500px;
+	position:absolute;
+	top:700px;
+	right:200px;
 	
 }
 div#shinadatext{
