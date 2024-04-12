@@ -151,3 +151,34 @@ img#polskapos7{
 	top:1500px;
 	
 }
+div#SHINADA{
+	position:relative;
+	top:0px;
+	left:1500px;
+	
+}
+div#shinadatext{
+	font-family:Edo SZ;
+	color:white;
+	height:1080;
+	width:1920;
+}
+div#textpos_shin{
+	position:relative;
+	top:100px;
+	left:900px;
+	
+}
+div#members_text{
+	position:relative;
+	top:0px;
+	left:0px;
+	font-size:30px;
+}
+div#bottom{
+	position:absolute;
+	bottom:0px;
+	
+	
+	
+}
