@@ -182,3 +182,53 @@ div#bottom{
 	
 	
 }
+div#secretmusic{
+	position:absolute;
+	right:1600px;
+	top:50px;
+	
+	
+	
+}
+embed#spongebob{
+position:absolute;
+right:450px;
+	
+	
+}
+div#secret1{
+	color: rgba(138, 155, 255, 0.7);
+	font-family:Arial;
+	text-align:center;
+	position:absolute;
+	top:500px;
+	left:0px;
+	transform:rotate(90deg)
+}
+div#secret1_2{
+	color: rgba(138, 155, 255, 0.7);
+	font-family:Arial;
+	text-align:center;
+	position:absolute;
+	top:500px;
+	right:0px;
+	transform:rotate(90deg)
+}
+iframe#likeabutterfly{
+	transform:rotate(0deg);
+	position:relative;
+	right:100px;
+	bottom:800px;
+}
+div#thezone{
+	color:rgba(255, 255, 255, 0.3);
+	text-align:center;
+	font-family:Edo SZ;
+	font-size:100px;
+}
+div#GOBACK{
+	color:rgba(255, 255, 255, 0.3);
+	position:relative;
+	font-size: 100px;
+	
+}
