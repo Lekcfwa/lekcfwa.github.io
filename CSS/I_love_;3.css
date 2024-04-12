@@ -102,3 +102,52 @@ position:relative;
 top: 100px;
 left:30px;
 }
+img#polskapos{
+	position:absolute;
+	right:300px;
+	top:50px;
+	
+}
+img#polskapos2{
+	position:absolute;
+	left:300px;
+	top:300px;
+	
+}
+img#polskapos3{
+	position:absolute;
+	right:400px;
+	top:600px;
+	
+}
+img#polskapos4{
+	position:absolute;
+	left:50px;
+	top:800px;
+	
+}
+img#polskapos5{
+	position:absolute;
+	right:70px;
+	top:1000px;
+	
+}
+div#testpolpos{
+	position:absolute;
+	right:70px;
+	top:1250px;
+	
+	
+}
+img#polskapos6{
+	position:absolute;
+	left:70px;
+	top:1200px;
+	
+}
+img#polskapos7{
+	position:absolute;
+	right:100px;
+	top:1500px;
+	
+}
