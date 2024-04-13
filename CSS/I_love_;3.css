@@ -284,6 +284,39 @@ div#pleaseplease{
 	top:400px;
 	font-size:30px;
 }
-
+div#reviews{
+	position:absolute;
+	top:1700px;
+	right:50px;
+	width:655px;
+	height:855px;
+	background-image:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/twitter.png);
+	color:black;
+	text-align:center;
+	font-size:30px;
+	border: solid black 7px;
+	border-radius:12px;
+	
+}
+img#border{
+	border: solid black;
+	border-width:4px;
+	
+	
+}
+img#easteregg{
+	position:absolute;
+	top:2000px;
+	left:1000px;
+	border: dashed #ff5e3d 7px;
+	border-radius:45px;
+}
+img#easteregg2{
+	position:absolute;
+	top:1900px;
+	left:1100px;
+	border: dashed #ff5e3d 7px;
+	border-radius:45px;
+}
 
 
