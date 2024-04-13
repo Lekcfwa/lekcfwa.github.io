@@ -2,7 +2,7 @@ div#colon3{
 width:1920px;
 height:100px;
 border:solid black;
-background-image: url(/Resources/placeholder.jpg);
+background-image: url(/Resources/catsonrooftops.png);
 border-bottom-width: 5px;
 border-bottom-color: red;
 }
@@ -241,7 +241,7 @@ div#boats{
 	left:500px;
 	border-width:13px;
 	border-radius:30px;
-	background-image:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/boat.png);
+	background-image:url(/Resources/boat.png);
 }
 div#hovertest{
 	position:absolute;
