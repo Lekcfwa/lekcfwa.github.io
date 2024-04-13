@@ -178,14 +178,16 @@ div#members_text{
 div#bottom{
 	position:absolute;
 	bottom:0px;
+	right:0px;
+	transform:rotate(90deg);
 	
 	
 	
 }
 div#secretmusic{
 	position:absolute;
-	right:1600px;
-	top:50px;
+	right:1800px;
+	top:1200px;
 	
 	
 	
