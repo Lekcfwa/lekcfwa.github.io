@@ -232,3 +232,56 @@ div#GOBACK{
 	font-size: 100px;
 	
 }
+div#boats{
+	color:red;
+	font-size:30px;
+	font-family:Arial;
+	border: dashed black;
+	position:absolute;
+	left:500px;
+	border-width:13px;
+	border-radius:30px;
+	background-image:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/boat.png);
+}
+div#hovertest{
+	position:absolute;
+	top:1200px;
+	right:600px;
+}
+div#hovertest:hover{
+	position:absolute;
+	top:1200px;
+	right:650px;
+
+	
+	
+}
+div#hovertext{
+	position:absolute;
+	top:1150px;
+	right:550px;
+	
+	
+}
+img#aprilfoolsgotyou{
+	position:absolute;
+	top:1400px;
+	left:30px;
+	
+	
+	
+}
+img#aprilfools{
+	position:relative;
+	left:0px;
+	
+}
+div#pleaseplease{
+	position:absolute;
+	left:500px;
+	top:400px;
+	font-size:30px;
+}
+
+
+
