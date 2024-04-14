@@ -325,7 +325,7 @@ div#reviews{
 	right:50px;
 	width:655px;
 	height:855px;
-	background-image:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/twitter.png);
+	background-image:url(/Resources/twitter.png);
 	color:black;
 	text-align:center;
 	font-size:30px;
@@ -353,3 +353,134 @@ img#easteregg2{
 	border: dashed #ff5e3d 7px;
 	border-radius:45px;
 }
+img#boats1{
+	position:absolute;
+	top:1950px;
+	left:70px;
+	transform:rotate(30deg);
+}
+img#boats2{
+	position:absolute;
+	top:70px;
+	left:600px;
+	transform:rotate(20deg);
+}
+span#BOATSALLOWED{
+	position:absolute;
+	top:150px;
+	left:600px;
+	transform:rotate(-10deg);
+	font-size:30px;
+	color:red;
+}
+span#iloveboats{
+	position:absolute;
+	top:1930px;
+	left:130px;
+	transform:rotate(30deg);
+	font-size:35px;
+	
+}
+span#iloveboats2{
+	position:absolute;
+	top:2137px;
+	left:5px;
+	transform:rotate(210deg);
+	font-size:35px;
+	
+}
+span#iloveboats3{
+	position:absolute;
+	top:1920px;
+	left:-50px;
+	transform:rotate(-60deg);
+	font-size:20px;
+	
+}
+span#iloveboats4{
+	position:absolute;
+	top:2155px;
+	left:370px;
+	transform:rotate(120deg);
+	font-size:20px;
+	
+}
+body#backgroundfit{
+	background-size: cover;
+}
+marquee#boats11{
+	position:absolute;
+	top:500px;
+}
+marquee#boats12{
+	position:absolute;
+	top:500px;
+	transform:rotate(-20deg);
+}
+marquee#boats12{
+	position:absolute;
+	top:500px;
+	transform:rotate(-20deg);
+}
+marquee#boats13{
+	position:absolute;
+	top:100px;
+	transform:rotate(0deg);
+}
+marquee#aircraft{
+	position:absolute;
+	top:0px;
+	
+	
+}
+span#boattext{
+	position:absolute;
+	font-size:80px;
+	color:rgba(0, 0, 0, 0.4);
+	top:50%;
+	left:30%;
+	
+}
+embed#creep{
+	position:absolute;
+	top:0px;
+	
+}
+img#pepsiad{
+	position:absolute;
+	top:2200px;
+	left:600px;
+}
+body#pepsibg{
+	background-size:cover;
+	
+}
+embed#pepsi2{
+	position:absolute;
+	top:300px;
+	right:100px;
+}
+embed#pepsi3{
+	position:absolute;
+	top:700px;
+	left:100px;
+}
+img#pepsi4{
+	position:absolute;
+	right:200px;
+	top:40px;
+	transform:rotate(-60deg);
+}
+img#pepsiad2{
+	position:absolute;
+	right:200px;
+	top:1300px;
+	
+}
+img#pepsiad3{
+	position:absolute;
+	top:900px;
+	left:600px;
+}
+
+PLEASE PLEASE PLEASE PLEASE PLEASE PLEASEP LEAPSLEA
