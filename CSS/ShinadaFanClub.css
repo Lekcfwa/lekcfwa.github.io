@@ -38,3 +38,9 @@ embed#rouge{
 	
 	
 }
+img#member2{
+	position:absolute;
+	top:400px;
+	left:360px;
+	transform:rotate(-30deg);
+}
