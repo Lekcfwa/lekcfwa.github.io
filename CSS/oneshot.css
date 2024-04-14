@@ -1,0 +1,38 @@
+img#nikoart1{
+	position:absolute;
+	transform:rotate(40deg);
+	top:40px;
+	right:50px;
+}
+body#nikobg{
+	background-size:cover;
+	
+}
+img#nikoart2{
+	position:absolute;
+	transform:rotate(-40deg);
+	top:200px;
+	left:50px;
+}
+img#nikoart3{
+	position:absolute;
+	transform:rotate(10deg);
+	top:200px;
+	left:200px;
+}
+img#nikoart4{
+	position:absolute;
+	transform:rotate(15deg);
+	top:100px;
+	left:150px;
+}
+img#nikoart5{
+	position:absolute;
+	transform:rotate(-195deg);
+	top:300px;
+	right:60px;
+}
+img#nikoart6{
+
+	transform:rotate(5deg);
+}
