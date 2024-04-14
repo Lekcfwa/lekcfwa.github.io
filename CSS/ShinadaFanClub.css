@@ -1,5 +1,5 @@
 img#member1{
-	position:relative;
+	position:absolute;
 	top:300px;
 	left:160px;
 	transform:rotate(30deg);
