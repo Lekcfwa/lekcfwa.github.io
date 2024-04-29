@@ -353,3 +353,9 @@ img#easteregg2{
 	border: dashed #ff5e3d 7px;
 	border-radius:45px;
 }
+img#art6{
+	position:absolute;
+	left:50px;
+	top:1800px;
+	border: solid #ff5e3d 12px;
+}
