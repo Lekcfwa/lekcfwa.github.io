@@ -88,6 +88,12 @@ img#art5{
 	top:160px;
 	border: solid #ff5e3d 12px;
 }
+img#art6{
+	position:absolute;
+	left:50px;
+	top:1800px;
+	border: solid #ff5e3d 12px;
+}
 div#textpos_art{
 	position:absolute;
 	bottom:15px;
@@ -516,9 +522,4 @@ PLEASE PLEASE PLEASE PLEASE PLEASE PLEASEP LEAPSLEA
 
 
 small change please work 
-img#art6{
-	position:absolute;
-	left:50px;
-	top:1800px;
-	border: solid #ff5e3d 12px;
-}
+
