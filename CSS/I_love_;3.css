@@ -556,7 +556,7 @@ progress#TST3{
 
 
 div#XP{
-	background-image:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/WindowsXP/XPwallpaper.webp);
+	background-image:url(/Resources/WindowsXP/XPwallpaper.webp);
 	position:absolute;
 	top:3415px;
 	left:-10px;
@@ -565,7 +565,7 @@ div#XP{
 	cursor: auto;
 }
 div#XPbar{
-	background-image: url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/WindowsXP/XPbar.png);
+	background-image: url(/Resources/WindowsXP/XPbar.png);
 	position:absolute;
 	width:1920px;
 	height:30px;
