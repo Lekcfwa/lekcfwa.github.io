@@ -353,4 +353,28 @@ img#easteregg2{
 	border: dashed #ff5e3d 7px;
 	border-radius:45px;
 }
+img#godblessthechinesse{
+	position:absolute;
+	top:3000px;
+	left:50px;
+	
+	
+}
+img#kaboom{
+	position:absolute;
+	top:2900px;
+	right:50px;
+	content:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/niko.png);
+	opacity:1;
+}
+img#kaboom:hover{
+	content:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/kaboom.gif);
+	
+	
+}
+*{
+	cursor: url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/shinadaicon.png), auto;
+	
+	
+}
 
