@@ -518,20 +518,3 @@ img#godblessthechinesse{
 	
 	
 }
-img#kaboom{
-	position:absolute;
-	top:2900px;
-	right:50px;
-	content:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/niko.png);
-	opacity:1;
-}
-img#kaboom:hover{
-	content:url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/kaboom.gif);
-	
-	
-}
-*{
-	cursor: url(file:///C:/Users/DESKTOP_GF65/Desktop/HTML/Lekcfwa/Resources/shinadaicon.png), auto;
-	
-	
-}
