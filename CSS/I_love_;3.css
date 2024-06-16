@@ -35,7 +35,7 @@ div#artpositionindex{
 div#ArtBorder{
 	border: dashed #ff7559;
 	text-align: center;
-	height: 4048px;
+	height: 6048px;
 	width:960px;
 	position:relative;
 	left:450px;
@@ -104,6 +104,24 @@ img#art8{
 	position:absolute;
 	left:50px;
 	top:2600px;
+	border: solid #ff5e3d 12px;
+}
+img#art9{
+	position:absolute;
+	right:50px;
+	top:3000px;
+	border: solid #ff5e3d 12px;
+}
+img#art10{
+	position:absolute;
+	left:50px;
+	top:3400px;
+	border: solid #ff5e3d 12px;
+}
+img#art11{
+	position:absolute;
+	right:50px;
+	top:3800px;
 	border: solid #ff5e3d 12px;
 }
 div#textpos_art{
