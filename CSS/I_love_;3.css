@@ -35,7 +35,7 @@ div#artpositionindex{
 div#ArtBorder{
 	border: dashed #ff7559;
 	text-align: center;
-	height: 6048px;
+	height: 8048px;
 	width:960px;
 	position:relative;
 	left:450px;
@@ -122,6 +122,36 @@ img#art11{
 	position:absolute;
 	right:50px;
 	top:3800px;
+	border: solid #ff5e3d 12px;
+}
+img#art12{
+	position:absolute;
+	left:50px;
+	top:4200px;
+	border: solid #ff5e3d 12px;
+}
+img#art13{
+	position:absolute;
+	right:50px;
+	top:4600px;
+	border: solid #ff5e3d 12px;
+}
+img#art14{
+	position:absolute;
+	left:50px;
+	top:5000px;
+	border: solid #ff5e3d 12px;
+}
+img#art15{
+	position:absolute;
+	right:50px;
+	top:5400px;
+	border: solid #ff5e3d 12px;
+}
+img#art16{
+	position:absolute;
+	left:50px;
+	top:5800px;
 	border: solid #ff5e3d 12px;
 }
 div#textpos_art{
